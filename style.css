@@ -3,6 +3,26 @@ body {
     background-color: white;
 }
 
+/* unvisited link */
+a:link {
+    color: #669933;
+}
+
+/* visited link */
+a:visited {
+    color: #669933;
+}
+
+/* mouse over link */
+a:hover {
+    color: #336633;
+}
+
+/* selected link */
+a:active {
+    color: #669933;
+}
+
 #page-wrap {
      width: 800px;
      margin: 0 auto;
