@@ -6,21 +6,29 @@ body {
 /* unvisited link */
 a:link {
     color: #669933;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /* visited link */
 a:visited {
     color: #669933;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /* mouse over link */
 a:hover {
     color: #336633;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /* selected link */
 a:active {
     color: #669933;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #page-wrap {
