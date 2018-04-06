@@ -23,6 +23,7 @@ img {
 
 .littlehr {
     border: none;
-    height: 4px;
+    height: 5px;
     background-color: #669933;
+    width: 60%;
 }
