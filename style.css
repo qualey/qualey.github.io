@@ -1,7 +1,10 @@
 body {
     background-color: white;
 }
-
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
 p {
   color: black;
 }
